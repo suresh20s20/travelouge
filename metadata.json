@@ -1,0 +1,6 @@
+{
+  "name": "Roam & Memoir - 1.5 Years of Journeys",
+  "description": "An interactive travelogue and visual journey showcase featuring 1.5 years of global adventures, interactive route maps, memory timelines, and trip journals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
